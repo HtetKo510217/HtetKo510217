@@ -1,6 +1,6 @@
 ## Welcome ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/htetko">
+<a href="https://twitter.com/Htetko280066671">
   <img align="left" alt="Htetko's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/htetko/">
@@ -25,4 +25,5 @@
 - Electronic Engineering Undergraduated Student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+⭐️ From [Darshan Jain](https://github.com/HtetKO510217)
 

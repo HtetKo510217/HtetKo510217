@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Htetko280066671">
   <img align="left" alt="Htetko's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/htetko/">
+<a href="https://www.linkedin.com/in/htet-ko-34799b198/">
   <img align="left" alt="Htetko's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/htetko">
@@ -22,7 +22,7 @@
 ### I am Htet Ko
 - 🔭 I'm a Full Stack developer who is passionate about Web Development.
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
-- Electronic Engineering Undergraduated Student. 
+-![image](https://user-images.githubusercontent.com/60650102/131240687-6b98a08f-e9a3-408d-a832-70093a561234.png) Electronic Engineering Undergraduated Student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 

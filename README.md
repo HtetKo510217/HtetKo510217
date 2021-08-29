@@ -22,7 +22,7 @@
 ### I am Htet Ko
 - 🔭 I'm a Full Stack developer who is passionate about Web Development.
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
--![image](https://user-images.githubusercontent.com/60650102/131240687-6b98a08f-e9a3-408d-a832-70093a561234.png) Electronic Engineering Undergraduated Student. 
+- 🎓 Electronic Engineering Undergraduated Student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 

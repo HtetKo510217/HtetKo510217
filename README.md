@@ -12,8 +12,8 @@
 <a href="https://t.me/htetko510217">
   <img align="left" alt="Htetko's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://medium.com/@htetko510217">
-  <img align="left" alt="Htetko's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://www.facebook.com/mie.htet.98/">
+  <img align="left" alt="Htetko's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />

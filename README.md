@@ -17,7 +17,7 @@
 </a>
 
 <br />
-<img align="right" width="200px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" width="400px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Htet Ko
 - 🔭 I'm trying to be a full stack developer who is passionate about Web Development.

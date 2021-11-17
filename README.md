@@ -17,7 +17,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" width="200px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Htet Ko
 - 🔭 I'm trying to be a full stack developer who is passionate about Web Development.
@@ -25,8 +25,4 @@
 - 🎓 Electronic Engineering graduated from TU(monywa). 
 - 👨‍💻 All of my projects are available at https://github.com/HtetKo510217?tab=repositories
 
-
-
-
-⭐️ From [Htet Ko](https://github.com/HtetKO510217)
 

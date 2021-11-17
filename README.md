@@ -20,11 +20,12 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Htet Ko
-- 🔭 I'm a Full Stack developer who is passionate about Web Development.
+- 🔭 I'm trying to be a full stack developer who is passionate about Web Development.
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
-- 🎓 Electronic Engineering Undergraduated Student. 
-- Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🎓 Electronic Engineering graduated from TU(monywa). 
+- 👨‍💻 All of my projects are available at https://github.com/HtetKo510217?tab=repositories
+
+
 
 
 ⭐️ From [Htet Ko](https://github.com/HtetKO510217)

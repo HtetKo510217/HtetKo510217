@@ -21,7 +21,7 @@
 
 ### I am Htet Ko
 - 🔭 I'm trying to be a full stack developer who is passionate about Web Development.
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+-🌱 I’m currently learning Node.js
 - 🎓 Electronic Engineering graduated from TU(monywa). 
 - 👨‍💻 All of my projects are available at https://github.com/HtetKo510217?tab=repositories
 

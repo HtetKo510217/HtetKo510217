@@ -17,7 +17,7 @@
 <img align="right" width="400px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Htet Ko
-- 🌱 I'm currently learning Golang and flutter
+- 🌱 I'm currently learning Golang and React Native
 - 🎓 Electronic Engineering graduated from TU(monywa). 
 - 👨‍💻 All of my projects are available at https://github.com/HtetKo510217?tab=repositories
 

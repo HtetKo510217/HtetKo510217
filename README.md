@@ -19,7 +19,7 @@
 ## I am Htet Ko
 - 💻 I am a **Software Engineer**
 - 📝 I write technical articles on medium.
-- 🌱 I love reading 
+- 🌱 I love reading about everything – from technology and software development to literature and personal growth!
 - 👨‍💻 Check out my projects at [my GitHub repositories](https://github.com/HtetKO510217?tab=repositories)
 
 ### Languages and Tools

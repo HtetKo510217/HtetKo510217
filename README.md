@@ -9,12 +9,16 @@ Hello! I am **Htet Ko**, a passionate software developer with a keen interest in
   - Python   
   - PHP  
 - **Frameworks/Libraries:**  
-  - React  
-  - Flask  
+  - React 
+  - Nextjs / Nuxtjs
+  - Vue
+  - Flask
+  - Laravel  
   - Node.js  
 - **Databases:**  
   - MySQL  
-  - MongoDB  
+  - MongoDB
+  - PostgreSQL  
 - **Tools and Technologies:**  
   - Git  
   - Docker  
@@ -22,6 +26,6 @@ Hello! I am **Htet Ko**, a passionate software developer with a keen interest in
 
 ## Call to Action
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/htetko510217/) or reach out via email at [htetko510217@gmail.com]. I am always open to discussing new projects, collaborations, or opportunities to contribute to exciting initiatives! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/htetko510217/) or reach out via email at htetko510217@gmail.com. I am always open to discussing new projects, collaborations, or opportunities to contribute to exciting initiatives! 
 
 Thank you for visiting my GitHub profile!
